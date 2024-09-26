@@ -9,4 +9,7 @@ Ele contém:
 - **Exercícios teóricos**, explicando funções básicas em C.
 - **Exercícios práticos**, com aplicações adicionais para demonstrar funcionalidades e expandir seu conhecimento.
 
-Aproveite para explorar e praticar!
+## Contribuições
+
+Estou aberto a todas as sugestões e correções! Fiquem à vontade para abrir **issues** ou enviar **pull requests** com melhorias, correções de bugs ou novas ideias para o repositório. Toda contribuição será bem-vinda!
+
