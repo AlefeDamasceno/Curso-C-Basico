@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+//Modelo CPF: xxx.xxx.xxx-xx
 char cpf[12], cpfcalculado[12];
 int verificar[12], i, j, soma, mult, digito1, digito2;
 
